@@ -67,7 +67,7 @@ public class Formation2Script : MonoBehaviour
             if(e != null && e.tag == "Enemy")
             {
                 e.GetComponent<EnemyController>().Attack();
-                yield return new WaitForSeconds(1 / level);
+                yield return new WaitForSeconds(1 / (level / 2 + 0.5f));
 
             }
         }
