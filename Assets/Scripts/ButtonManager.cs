@@ -62,6 +62,10 @@ public class ButtonManager : MonoBehaviour
                 music.Stop();
                 SceneManager.LoadScene("AI");
                 break;
+            case "ExitPlayGame":
+                music.Stop();
+                SceneManager.LoadScene("init");
+                break;
         }
     }
 }

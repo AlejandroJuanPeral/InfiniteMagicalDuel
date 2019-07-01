@@ -41,7 +41,7 @@ public class SpawnerScript : MonoBehaviour
 
     void spawnFormations()
     {
-        int r = Random.Range(1, 5);
+        int r = Random.Range(1, 6);
         GameObject newPatron;
         Vector3 position;
         switch (r)

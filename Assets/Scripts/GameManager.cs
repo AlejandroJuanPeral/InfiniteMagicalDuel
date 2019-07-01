@@ -51,7 +51,7 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         timerGame += Time.deltaTime;
-        /*if (timerGame > 120 && Level == 1)
+        if (timerGame > 120 && Level == 1)
         {
             Level = 2;
             changeLevel(2);
@@ -59,7 +59,7 @@ public class GameManager : MonoBehaviour
         {
             changeLevel(3);
             Level = 3;
-        }*/
+        }
 
         if (combo1)
         {
@@ -91,11 +91,11 @@ public class GameManager : MonoBehaviour
 
     public void Win(int p)
     {
-        //FinishPanel.SetActive(true);
+        FinishPanel.SetActive(true);
 
         if (p == 1)
         {
-            //PlayerWinText.text = "Player 2 Wins";
+            PlayerWinText.text = "Player 2 Wins";
             if (Player2.tag == "AI")
             {
                 Player2.GetComponent<MagicAgent>().Win();
@@ -107,7 +107,7 @@ public class GameManager : MonoBehaviour
         }
         else if (p == 2)
         {
-            //PlayerWinText.text = "Player 1 Wins";
+            PlayerWinText.text = "Player 1 Wins";
             if (Player1.tag == "AI")
             {
                 Player1.GetComponent<MagicAgent>().Win();
@@ -117,7 +117,7 @@ public class GameManager : MonoBehaviour
                 restart(2);
             }
         }
-        //Time.timeScale = 0;
+        Time.timeScale = 0;
     }
 
     public void point_Player1()

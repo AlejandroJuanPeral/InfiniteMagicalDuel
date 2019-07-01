@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{373AE6B1-104C-5595-D4BC-397E86D04B52}</ProjectGuid>
+    <ProjectGuid>{B8C11DC3-B806-D8D1-F8AD-14BF28A517E8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -65,19 +65,19 @@
     <Compile Include="Assets\ML-Agents\Editor\MLAgentsEditModeTest.cs" />
     <Compile Include="Assets\ML-Agents\Editor\ResetParameterDrawer.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -344,34 +344,34 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="System.Numerics">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Assets/ML-Agents/Plugins/System.Numerics.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Assets/ML-Agents/Plugins/System.Numerics.dll</HintPath>
     </Reference>
     <Reference Include="System.ValueTuple">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Assets/ML-Agents/Plugins/System.ValueTuple.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Assets/ML-Agents/Plugins/System.ValueTuple.dll</HintPath>
     </Reference>
     <Reference Include="TensorFlowSharp.Android">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Assets/ML-Agents/Plugins/Android/TensorFlowSharp.Android.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Assets/ML-Agents/Plugins/Android/TensorFlowSharp.Android.dll</HintPath>
     </Reference>
     <Reference Include="TensorFlowSharp">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Assets/ML-Agents/Plugins/Computer/TensorFlowSharp.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Assets/ML-Agents/Plugins/Computer/TensorFlowSharp.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Assets/ML-Agents/Plugins/JSON/Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Assets/ML-Agents/Plugins/JSON/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>C:/Users/alex_/Desktop/TFG/ml-agents-0.3.1a/unity-environment/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/alex_/Documents/GitHub/InfiniteMagicalDuel/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.9f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -736,7 +736,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{916F6853-8ED4-AE71-9B49-F61608A9BF02}</Project>
+      <Project>{16A73029-72FD-CBFE-FA4F-0C099AAA736D}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
